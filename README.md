@@ -16,7 +16,7 @@
 
 ## 🚀 Демо
 
-🌐 **Live Demo:** [Будет добавлено после деплоя]
+🌐 **Live Demo:** [https://emoji-hub-production-ff8c.up.railway.app](https://emoji-hub-production-ff8c.up.railway.app)
 
 ## 🛠 Технический стек
 
